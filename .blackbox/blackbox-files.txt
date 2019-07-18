@@ -1,1 +1,2 @@
+database/senhas-prod.txt
 database/senhas.txt

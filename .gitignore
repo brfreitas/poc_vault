@@ -2,3 +2,4 @@
 /.blackbox/pubring.kbx~
 /.blackbox/secring.gpg
 /database/senhas.txt
+/database/senhas-prod.txt
