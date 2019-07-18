@@ -1,2 +1,3 @@
 database/senhas-prod.txt
 database/senhas.txt
+ssh/teste.pem
